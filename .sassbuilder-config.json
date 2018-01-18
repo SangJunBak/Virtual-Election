@@ -1,0 +1,11 @@
+{
+    "project_path": "/Documents/ICS4U/voteapp/styles.scss",
+	"output_path": "/Documents/ICS4U/voteapp/styles.css",
+	"options": {
+		"cache":         true,
+		"debug":         true,
+		"line-comments": false,
+		"line-numbers":  false,
+		"style":         "compressed"
+	}
+}
