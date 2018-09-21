@@ -1,9 +1,9 @@
 <?php
 // database configurations
 $db_servername = "localhost";
-$db_username = "bak5b557";
-$db_password = "bak5b557_318";
-$db_databasename = "actonhig_bak5b557";
+$db_username = "INSERT_DB_USERNAME";
+$db_password = "INSERT_DB_PASSWORD";
+$db_databasename = "INSERT_DB_NAME";
 
 //************************************************************************
 // Connect to MySQL Database
