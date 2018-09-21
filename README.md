@@ -6,6 +6,13 @@ Web application that utilizes SQL databases and AJAX for voting processes
 ### Main Application
 <img src="./images/voting_app_function.gif" alt="Gif1" style="width:50%"/>
 
+### Admin Page
+<div style="display:inline-flex">
+  <img src="./images/sc_1.png" width="30%"/>
+    <img src="./images/sc_2.png" width="30%"/>
+    <img src="./images/sc_3.png" width="30%"/>
+</div>
+
 ## Installation
 To install:
 1. Access index.php on an [Apache localhost](https://www.apachelounge.com/viewtopic.php?t=5499&view=previous) or [Xampp localhost](https://www.apachefriends.org/index.html). 
